@@ -1,0 +1,16 @@
+[
+  {
+    "id": "tiger",
+    "name": "东北虎",
+    "scientificName": "Panthera tigris altaica",
+    "description": "世界上体型最大的猫科动物，主要生活在西伯利亚东部...",
+    "imagePath": ""
+  },
+  {
+    "id": "giant-panda",
+    "name": "大熊猫",
+    "scientificName": "Ailuropoda melanoleuca",
+    "description": "中国的国宝，以竹子为食...",
+    "imagePath": ""
+  }
+]
